@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=54&duration=99&pause=99&color=111111&background=FFFFFF00&center=true&vCenter=true&width=900&height=80&lines=THE+DAILY+DEVELOPER" alt="The Daily Developer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=54&duration=99&pause=999&color=111111&background=FFFFFF00&center=true&vCenter=true&width=900&height=80&lines=THE+DAILY+DEVELOPER" alt="The Daily Developer"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=5" width="100%"/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=aaaaaa&height=2" width="100%"/>
