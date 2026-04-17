@@ -23,7 +23,6 @@ public class Ikrama {
     String location    = "New Delhi, India 🇮🇳";
     String role        = "Backend Developer";
     String[] focus     = {"Java", "Spring Boot", "Microservices"};
-    String[] building  = {"Healthcare Management System", "Banking Applications"};
     String learning    = "System Design & Cloud Architecture";
     String goal        = "Write clean, scalable, production-ready code";
 }
@@ -53,6 +52,8 @@ public class Ikrama {
   <img src="https://img.shields.io/badge/Microservices-0052CC?style=for-the-badge&logo=azure-devops&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eureka_Server-43853D?style=for-the-badge&logo=netflix&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API_Gateway-FF6C37?style=for-the-badge&logo=amazon-api-gateway&logoColor=white"/>
 </p>
 
 ### Databases
@@ -72,30 +73,23 @@ public class Ikrama {
 
 ---
 
-## 🚀 Featured Projects
-
-<a href="https://github.com/iamikrama/Healthcare-management-and-booking">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamikrama&repo=Healthcare-management-and-booking&theme=tokyonight&hide_border=true" />
-</a>
-&nbsp;
-<a href="https://github.com/iamikrama/banking">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamikrama&repo=banking&theme=tokyonight&hide_border=true" />
-</a>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=iamikrama&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamikrama&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-
+  <table border="0" cellspacing="0" cellpadding="6">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=iamikrama&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=420" height="195"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamikrama&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" height="195"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=iamikrama&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=iamikrama&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=740" alt="GitHub Streak" />
 </div>
 
 ---
