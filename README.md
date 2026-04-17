@@ -38,7 +38,7 @@
 
 ## DEVELOPER PROFILE — BANGALORE DESK
 
-**NEW DELHI** — A dedicated Java Backend Engineer operating from the heart of India, **IKRAMA AKHTAR** has been building scalable, production-grade backend systems since April 2021.
+**BANGALORE** — A dedicated Java Backend Engineer operating from the heart of India, **IKRAMA AKHTAR** has been building scalable, production-grade backend systems since April 2021.
 
 Specialising in **Spring Boot** and **Microservices architecture**, Akhtar's portfolio spans critical enterprise domains — from healthcare patient booking platforms to secure banking and fund transfer systems equipped with JWT-based authentication and service discovery.
 
@@ -51,7 +51,7 @@ Currently deepening expertise in **System Design** and **Cloud Architecture**, w
 | Field | Detail |
 |---|---|
 | **Name** | Ikrama Akhtar |
-| **Location** | BANGALORE, India |
+| **Location** | Bangalore, India |
 | **Role** | Backend Developer |
 | **Focus** | Java · Spring Boot · Microservices |
 | **Learning** | System Design · Cloud Architecture |
