@@ -4,7 +4,7 @@
 
 <br/>
 
-<sup>NEW DELHI, INDIA &nbsp;&nbsp;✦&nbsp;&nbsp; ESTABLISHED APRIL 2021 &nbsp;&nbsp;✦&nbsp;&nbsp; VOL. I &nbsp;&nbsp;✦&nbsp;&nbsp; BACKEND & SYSTEMS CORRESPONDENT</sup>
+<sup>BANGALORE, INDIA &nbsp;&nbsp;✦&nbsp;&nbsp; ESTABLISHED APRIL 2021 &nbsp;&nbsp;✦&nbsp;&nbsp; VOL. I &nbsp;&nbsp;✦&nbsp;&nbsp; BACKEND & SYSTEMS CORRESPONDENT</sup>
 
 <br/><br/>
 
@@ -36,7 +36,7 @@
 <tr>
 <td width="58%" valign="top">
 
-## DEVELOPER PROFILE — NEW DELHI DESK
+## DEVELOPER PROFILE — BANGALORE DESK
 
 **NEW DELHI** — A dedicated Java Backend Engineer operating from the heart of India, **IKRAMA AKHTAR** has been building scalable, production-grade backend systems since April 2021.
 
@@ -51,7 +51,7 @@ Currently deepening expertise in **System Design** and **Cloud Architecture**, w
 | Field | Detail |
 |---|---|
 | **Name** | Ikrama Akhtar |
-| **Location** | New Delhi, India |
+| **Location** | BANGALORE, India |
 | **Role** | Backend Developer |
 | **Focus** | Java · Spring Boot · Microservices |
 | **Learning** | System Design · Cloud Architecture |
@@ -71,9 +71,8 @@ Currently deepening expertise in **System Design** and **Cloud Architecture**, w
 <br/>
 
 **CURRENTLY ON THE DESK:**
-- Healthcare Management System
-- Banking Application
-- Bank Fund Transfer with Auth
+- FloatTranslate
+- NotifyBox
 
 </td>
 </tr>
