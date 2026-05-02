@@ -16,7 +16,7 @@
 
 <br/>
 
-<em>Covering Java · Spring Boot · Microservices · Backend Engineering · New Delhi</em>
+<em>Covering Java · Spring Boot · Microservices · Backend Engineering · Bangalore</em>
 
 <br/><br/>
 
@@ -71,8 +71,8 @@ Currently deepening expertise in **System Design** and **Cloud Architecture**, w
 <br/>
 
 **CURRENTLY ON THE DESK:**
-- FloatTranslate
-- NotifyBox
+- Healthcare Management & Booking System
+- Exploring System Design
 
 </td>
 </tr>
@@ -120,10 +120,12 @@ Currently deepening expertise in **System Design** and **Cloud Architecture**, w
 
 ![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-222222?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-333333?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-444444?style=flat-square&logo=git&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-555555?style=flat-square&logo=intellij-idea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-666666?style=flat-square&logo=postman&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-333333?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-444444?style=flat-square&logo=apache-kafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-555555?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-666666?style=flat-square&logo=git&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-777777?style=flat-square&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-888888?style=flat-square&logo=postman&logoColor=white)
 
 </td>
 </tr>
@@ -174,7 +176,7 @@ Currently deepening expertise in **System Design** and **Cloud Architecture**, w
 
 <br/><br/>
 
-<sub>© THE DAILY DEVELOPER &nbsp;·&nbsp; ALL RIGHTS RESERVED &nbsp;·&nbsp; NEW DELHI, INDIA</sub>
+<sub>© THE DAILY DEVELOPER &nbsp;·&nbsp; ALL RIGHTS RESERVED &nbsp;·&nbsp; BANGALORE, INDIA</sub>
 
 <br/>
 
